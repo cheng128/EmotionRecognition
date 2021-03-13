@@ -1,5 +1,7 @@
 ## Emotion Recognition on Twitter
 A simple example of sentiment analysis on Twitter post using ktrain. 
+Competition page:
+https://www.kaggle.com/c/dm2020-hw2-nthu/overview
 
 ### About ktrain
 https://github.com/amaiya/ktrain#overview
